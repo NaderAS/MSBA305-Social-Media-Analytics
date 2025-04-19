@@ -1,0 +1,642 @@
+,post_id,title,text,author,created_utc,score,num_comments,upvote_ratio
+0,1jyq1tk,"Weekly Entering & Transitioning - Thread 14 Apr, 2025 - 21 Apr, 2025"," 
+
+Welcome to this week's entering & transitioning thread! This thread is for any questions about getting started, studying, or transitioning into the data science field. Topics include:
+
+* Learning resources (e.g. books, tutorials, videos)
+* Traditional education (e.g. schools, degrees, electives)
+* Alternative education (e.g. online courses, bootcamps)
+* Job search questions (e.g. resumes, applying, career prospects)
+* Elementary questions (e.g. where to start, what next)
+
+While you wait for answers from the community, check out the [FAQ](https://www.reddit.com/r/datascience/wiki/frequently-asked-questions) and Resources pages on our wiki. You can also search for answers in [past weekly threads](https://www.reddit.com/r/datascience/search?q=weekly%20thread&restrict_sr=1&sort=new).",AutoModerator,1744603309.0,9,43,0.91
+1,1i5inrb,"Weekly Entering & Transitioning - Thread 20 Jan, 2025 - 27 Jan, 2025"," 
+
+Welcome to this week's entering & transitioning thread! This thread is for any questions about getting started, studying, or transitioning into the data science field. Topics include:
+
+* Learning resources (e.g. books, tutorials, videos)
+* Traditional education (e.g. schools, degrees, electives)
+* Alternative education (e.g. online courses, bootcamps)
+* Job search questions (e.g. resumes, applying, career prospects)
+* Elementary questions (e.g. where to start, what next)
+
+While you wait for answers from the community, check out the [FAQ](https://www.reddit.com/r/datascience/wiki/frequently-asked-questions) and Resources pages on our wiki. You can also search for answers in [past weekly threads](https://www.reddit.com/r/datascience/search?q=weekly%20thread&restrict_sr=1&sort=new).",AutoModerator,1737349304.0,13,46,0.94
+2,1k26920,How do you go about memorizing all the ML algorithms details for interviews?,"I’ve been preparing for interviews lately, but one area I’m struggling to optimize is the ML depth rounds. Right now, I’m reviewing ISLR and taking notes, but I’m not retaining the material as well as I’d like. Even though I studied this in grad school, it’s been a while since I dove deep into the algorithmic details.  
+
+Do you have any advice for preparing for ML breadth/depth interviews? Any strategies for reinforcing concepts or alternative resources you’d recommend? ",Lamp_Shade_Head,1744986429.0,65,36,0.93
+3,1k26kp3,What’s your 2025 data science coding stack + AI tools workflow?,"Curious how others are working these days. What’s your current setup?
+
+IDE / notebook tools? (VS Code, Cursor, Jupyter, etc.)
+
+Are you using AI tools like Cursor, Windsurf, Copilot, Cline, Roo?
+
+How do they fit into your workflow? (e.g., prompting style, tasks they’re best at)
+
+Any wins, limitations, or tips?",Zuricho,1744987285.0,41,16,0.88
+4,1k2a8t6,"Forecasting: Principles and Practice, the Pythonic Way",,Sampo,1744996521.0,10,1,0.92
+5,1k2ax74,What does a good DS manager look like to you? How does one manage a DS project?,"Hi all, 
+
+I have found myself numerous times in leadership roles for data science projects. I never feel that I am doing a sufficient job. I find that I either end have up doing a lot of the work on my own and failing to split up task in the data science realm. A lot of these projects, and I hate to say it like this without sounding cocky, I feel that I can do on my own from end to end. Maybe some minimal support from other teams in helping with data flow issues, etc. I'm not a manager by any means, I am individual contributor. 
+
+For those in this subreddit who are managers, what are some ways you found success in managing data science teams and projects? For those as individual contributors, what are some things that you like to have in a data science manager?",throwaway69xx420,1744998234.0,9,3,1.0
+6,1k1wu9o,Forecasting models for small data in operations,"Hi, I work in a company that provides a weekly service to our customers.
+
+One of the most important things for our operations is to know 1 to 5 weeks in advance how many customers we expect to have for each of those future weeks.
+
+Company is operating for about 4 years so there are roughly 200 historical data points.
+
+I wonder, which data science, ML models are best for small data with some seasonal trends?
+
+Facebook prophet, Arima and Sarima are the ones we use but it feels like we are missing some.
+
+Any thoughts?
+",Admirable_Creme1276,1744952011.0,22,25,0.92
+7,1k22cd4,Working with distance,"I'm super curious about the solutions you're using to calculate distances. 
+
+I can't share too many details, but we have data that includes two addresses and the GPS coordinates between these locations. While the results we've obtained so far are interesting, they only reflect the straight-line distance.
+
+Google has an API that allows you to query travel distances by car and even via public transport. However, my understanding is that their terms of service restrict storing the results of these queries and the volume of the calls.
+
+Have any of you experts explored other tools or data sources that could fulfill this need? This is for a corporate solution in the UK, so it needs to be compliant with regulations.
+
+Edit: thanks, you guys are legends ",oryx_za,1744974637.0,7,21,0.68
+8,1k1mjok,Lead DS book suggestions,"Ive landed my first role as a lead DS. My responsibilities outside actual DS work is upskilling the analytics team in Python, R and powerBI which I've got 5+ experience with. However, this is the first role where I'm mentoring/coaching/leading a team. I would welcome any suggestions for reading materials that would help me in this new leadership role. Thank you for your time!",citizenofme,1744920922.0,63,23,0.95
+9,1k1x464,What is the difference between DiD and incremental testing? I did search online and gpt but didn’t find convincing difference,"Hi 
+
+What is the difference between DiD and incremental testing? I did search online and gpt but didn’t find convincing difference, i don’t get it as both are basically difference between control and treatment group. If anyone could explain then would be great help. Thanks!",Starktony11,1744953050.0,4,4,0.76
+10,1k1vo23,Advice before getting data engineer fellowship position,"Hey everybody,
+
+I need some advice. I have an MsC in Data Science and have really struggled to find jobs. I got an average paying, “data science adjacent but not data science enough” quantitative analyst job in a bank. In fact , I feel like I get dumber every day I’m there and I’m miserable. None of the skills or achievements there are noteworthy : no model building, no big analyses, no data engineering or Gen ai work, just model validation work (helping other people fix their modeling solutions).
+
+Long story short, I’m interviewing for a fellowship position to be a data engineer in a nonprofit. It lasts for one year and exposes me to many clients that I will aid. At most I can extend the fellowship for one additional year. It sounds exciting. It pays 10K less, but it’s a step in the right direction. It gets me closer to what I actually studied.
+
+The reason I write this post is because I want to know if it will negatively impact my resume or future chances. If I take this job, my resume will look like this : data analyst job (3 years) with a bit of sql and excel, two data science internships (one 3 months and one 8 months) at the university, quantitative analyst (6months), data engineer fellowship (1 year). Will this make companies look at me like a problem and not give me a chance to even interview? Thanks in advance, everybody.
+",Emuthusiast,1744947829.0,4,2,0.7
+11,1k1lh3r,Experiences from past Open Data Science Conferences (ODSC)?,"I have an opportunity to attend ODSC East (https://odsc.com/boston/) and want to see if this is worth it as a M.S. CS graduate looking for networking and employment opportunities.
+
+  
+I am less interested in tutorials and workshops than in networking and employment. Is it worth it to show up with a resume and portfolio links looking to network?
+
+  
+I searched this sub and reviews are mixed but fairly old. Anyone gone recently?",FilmIsForever,1744918223.0,6,1,0.76
+12,1k20azb,Have a lot of experience but not getting any interviews - help,"Hi,
+
+I was here a few weeks back and you helped me to cut down my CV and demo more impact.  I have applied to jobs all over and get only rejections.
+
+I know the market is hard right now, but I would think that I would at least get invited to have at least initial conversations.  This makes me think, there must be something really missing.  Could you tell me what you think it could be?
+
+Due to AI hype there are a lot of postings with LLMs.  I don't have corporate experience there but I plan to do projects to learn & demo it.
+
+This week I have lowered my salary requirements by 10k and still get rejections.
+
+I have 2 versions - a 2 pager and a 1 pager.  Have been applying with the 2 pager mostly until now.
+
+Am grateful for your feedback and any help you can give me
+
+https://preview.redd.it/e4pubfms4kve1.png?width=1414&format=png&auto=webp&s=853c4ae00db446784cb42ff17048611e5fb03a81
+
+https://preview.redd.it/mzsfifmv4kve1.png?width=1414&format=png&auto=webp&s=ca35aeac336eb834a54b55008efc51936c26658d
+
+https://preview.redd.it/l9jz6b6w4kve1.png?width=1414&format=png&auto=webp&s=802f98f4dfdb7cc5d39346c6d1a91cf6b08b95b6
+
+",SonicBoom_81,1744966399.0,0,18,0.36
+13,1k1ohsp,Website that allow comparing VLMs and LLMs?,"I am trying to initiate a project in which I will describe images (then the descriptions will go through another pipeline). I already tested ChatGPT and saw that it was successful in giving me the description I needed. However, it is expensive and infeasible for my project (there are going to be billions of images). 
+
+I am searching for an online platform that enables comparison of various VLM outputs. 
+
+  
+Thanks!",David202023,1744925962.0,2,0,0.76
+14,1k0zcye,Data Engineer trying to understand data science to provide better support.,"I work as a data engineer who mainly builds & maintains data warehouses but now I’m starting to get projects assigned to me asking me to build custom data pipelines for various data science projects and I’m assuming deployment of Data Science/ML models to production. 
+
+Since my background is data engineering, how can I learn data science in a structured bottom up manner so that I can best understand what exactly the data scientists want? 
+
+This may sound like overkill to some but so far the data scientist I’m working with is trying to build a data science model that requires enriched historical data for the training of the data science model. Ok no problem so far. 
+
+However, they then want to run the data science model on the data as it’s collected (before enrichment) but the problem is this data science model is trained on enriched historical data that wont have the exact same schema as the data that’s being collected real time?
+
+What’s even more confusing is some data scientists have said this is ok and some said it isn’t.
+
+I don’t know which person is right. So, I’d rather learn at least the basics, preferably through some good books & projects so that I can understand when the data scientists are asking for something unreasonable.
+
+I need to be able to easily speak the language of data scientists so I can provide better support and let them know when there’s an issue with the data that may effect their data science model in unexpected ways. ",khaili109,1744848145.0,59,31,0.91
+15,1k0v0dc,"Does anyone here work for DoorDash, Discover, Home Depot, or Liberty Mutual?",Why do you keep posting the same jobs over and over again?,Trick-Interaction396,1744836414.0,49,32,0.77
+16,1k0c459,Data science is not about...,"There's a lot of posts on LinkedIn which claim:
+- Data science is not about Python
+- It's not about SQL
+- It's not about models
+- It's not about stats
+...
+
+But it's about storytelling and business value. 
+
+There is a huge amount of people who are trying to convince everyone else in this BS, IMHO. It's just not clear why... 
+
+Technical stuff is much more important. It reminds me of some rich people telling everyone else that money doesn't matter.  ",Suspicious_Jacket463,1744778309.0,622,155,0.86
+17,1k0mdr3,Did great in the coding round but still never heard back from the HR,"I had a python and sql coding round last week. I managed to do all the questions within the given time, interviewer had to provide hint for a syntax in one of the questions but everything except that I was able to do on my own, even spoke out loud about my thought process.
+
+At the end, the interviewer said I passed both SQL and Python and to expect to hear from HR on the next steps. To my surprise I never heard back from anyone. I can’t seem to understand what could I have done better, was requiring hint for syntax a deal breaker? It feels a bit disappointing as I don’t even know what to improve going forward. 
+
+Based on your experience, is this a normal scenario?",Lamp_Shade_Head,1744815217.0,46,33,0.8
+18,1k0vdku,Quick question regarding nested resampling and model selection workflow,"Just wanted some feedback regarding my model selection approach.
+
+The premise:  
+Need to train dev a model and I will need to perform nested resmapling to prevent against spatial and temporal leakage.  
+Outer samples will handle spatial leakage.  
+Inner samples will handle temporal leakage.  
+I will also be tuning a model.
+
+Via the diagram below, my model tuning and selection will be as follows:  
+\-Make inital 70/30 data budget  
+\-Perfrom some number of spatial resamples (4 shown here)  
+\-For each spatial resample (1-4), I will make N (4 shown) spatial splits  
+\-For each inner time sample i will train and test N (4 shown) models and mark their perfromance  
+\-For each outer samples' inner samples - one winner model will be selected based on some criteria  
+\--e.g Model A out performs all models trained innner samples 1-4 for outer sample #1  
+\----Outer/spatial #1 -- winner model A  
+\----Outer/spatial #2 -- winner model D  
+\----Outer/spatial #3 -- winner model C  
+\----Outer/spatial #4 -- winner model A  
+\-I take each winner from the previous step and train them on their entire train sets and validate on their test sets  
+\--e.g train model A on outer #1 train and test on outer #1 test  
+\----- train model D on outer #2 train and test on outer #2 test  
+\----- and so on  
+\-From this step the model the perfroms the best is then selected from these 4 and then trained on the entire inital 70% train and evalauated on the inital 30% holdout.
+
+Should I change my method up at all?  
+I was thinking that I might be adding bias in to the second modeling step (training the winning models on the outer/spatial samples) because there could be differences in the spatial samples themselves.   
+Potentially some really bad data ends up exclusively in the test set for one of the outer folds and by default make one of the models not be selected that otherwise might have. 
+
+https://preview.redd.it/kw6ogyygg9ve1.png?width=1080&format=png&auto=webp&s=7d6ac472bd91269bd9790ee3b8111b053cffa351
+
+  
+",showme_watchu_gaunt,1744837338.0,2,1,0.67
+19,1k082ij,Is TimeSeriesSplit appropriate for purchase propensity prediction?”,"I have a dataset of price quotes for a service, with the following structure: client ID, quote ID, date (daily), target variable indicating whether the client purchased the service, and several features.
+
+I'm building a model to predict the likelihood of a client completing the purchase after receiving a quote.
+
+Does it make sense to use TimeSeriesSplit for training and validation in this case?
+Would this type of problem be considered a time series problem, even though the prediction target is not a continuous time-dependent variable?",nirvana5b,1744765107.0,18,14,0.85
+20,1jzml32,Is Agentic AI remotely useful for real business problems?,"Agentic AI is the latest hype train to leave the station, and there has been an explosion of frameworks, tools etc. for developing LLM-based agents. The terminology is all over the place, although the definitions in the Anthropic blog ‘Building Effective Agents’ seem to be popular (I like them). 
+
+Has anyone actually deployed an agentic solution to solve a business problem? Is it in production (i.e more than a PoC)? Is it actually agentic or just a workflow? I can see clear utility for open-ended web searching tasks (e.g. deep research, where the user validates everything) - but having agents autonomously navigate the internal systems of a business (and actually being useful and reliable) just seems fanciful to me, for all kinds of reasons. How can you debug these things? 
+
+There seems to be a vast disconnect between expectation and reality, more than we’ve ever seen in AI. Am I wrong?",Prize-Flow-3197,1744705044.0,89,52,0.87
+21,1jz0h1y,*Saw Greg pinged me & logged off immediately*,,ElectrikMetriks,1744641544.0,479,19,0.98
+22,1jz4teg,Why won’t they let you run your code!?,"So I just got done with a SQL zoom screen. I practiced for a long time on mediums and hards. One thing that threw me off was I was not allowed to run the query to see the result. The problems were medium and hard often requiring multiple joins and CTEs. 2 mediums 2 hards. 25 mins. Only got done with 3 and they wouldn’t even tell me if I was right or wrong. Just “logic looks sound” 
+
+All the practice resources like leetcode and data lemur allow you to run your code. I did not expect this. Is this common practice? Definitely failed and feel totally dejected 😞 ",Suspicious_Coyote_54,1744652198.0,183,38,0.94
+23,1jyu503,PowerBI but not PowerBI,"Figured this was the best community to ask this question:
+
+I have a bunch of personal data (think personal finance spreadsheet type stuff), and I'd love to build a dashboard for it - purely for me. I have access to Power BI through my work so I know how to build the sort of thing I want.
+
+However
+
+I obviously can't use my work account to create a personal dashboard with my personal data etc, so I'm trying to find alternative solutions.
+
+To set up a personal PBI account seems to need a lot of hoops like owning your own domain for an email address etc, so I'm wondering if anyone in this community might use any other dashboard tools that they reccomend and that would have similar basic functionality and be a bit less faff to try and set up a personal account?",vintagefiretruk,1744620386.0,27,38,0.77
+24,1jyicx6,Why are methods like forward/backward selection still taught?,"When you could just use lasso/relaxed lasso instead?
+
+
+https://www.stat.cmu.edu/~ryantibs/papers/bestsubset.pdf",Loud_Communication68,1744579181.0,84,92,0.85
+25,1jyloqi,Reputed Graduate Certificates?,"Since finishing my Master's in Stats 4+ years ago the field has changed a lot. I feel like my education had a lot of useless classes and missed things like bayesian, graphs, DL, big data, etc.
+
+Stanford seems to have some good graduate certs with classes I'm interested in and my employer will cover 2/3 the costs. Are these worth taking or is there a better way to get this info online? I have 3 YOE as DS at well known companies, so will these graduate certs from reputed unis improve my resume or is it similar to coursera?",LeaguePrototype,1744588866.0,29,12,0.85
+26,1jy2pe0,Is a Master’s Still Necessary?,"Can I break into DS with just a bachelor’s? I have 3 YOE of relevant experience although not titled as “data scientist”. I always come across roles with bachelor’s as a minimum requirement but master’s as a preferred. However, I have not been picked up for an interview at all. 
+
+I do not want to take the financial burden of a masters degree since I already have the knowledge and experience to succeed. But it feels like I am just putting myself at a disadvantage in the field. Should I just get an online degree for the masters stamp? ",Feeling_Bad1309,1744531456.0,114,113,0.81
+27,1jxl18x,Ace The Interview - SQL Intuitively and Exhaustively Explained,"SQL is easy to learn and hard to master. Realistically, the difficulty of the questions you get will largely be dictated by the job role you're trying to fill.
+
+From it's highest level, SQL is a ""declarative language"", meaning it doesn't define a set of operations, but rather a desired end result. This can make SQL incredibly expressive, but also a bit counterintuitive, especially if you aren't fully aware of it's declarative nature.
+
+SQL expressions are passed through an SQL engine, like PostgreSQL, MySQL, and others. Thes engines parse out your SQL expressions, optimize them, and turn them into an actual list of steps to get the data you want. While not as often discussed, for beginners I recommend SQLite. It's easy to set up in virtually any environment, and allows you to get rocking with SQL quickly. If you're working in big data, I recommend also brushing up on something like PostgreSQL, but the differences are not so bad once you have a solid SQL understanding.
+
+In being a high level declaration, SQL’s grammatical structure is, fittingly, fairly high level. It’s kind of a weird, super rigid version of English. SQL queries are largely made up of:
+
+* **Keywords:** special words in SQL that tell an engine what to do. Some common ones, which we’ll discuss, are `SELECT, FROM, WHERE, INSERT, UPDATE, DELETE, JOIN, ORDER BY, GROUP BY` . They can be lowercase or uppercase, but usually they’re written in uppercase.
+* **Identifiers:** Identifiers are the names of database objects like tables, columns, etc.
+* **Literals:** numbers, text, and other hardcoded values
+* **Operators:** Special characters or keywords used in comparison and arithmetic operations. For example `!=`, `<` ,`OR`, `NOT` , `*`, `/`, `%` , `IN`, `LIKE` . We’ll cover these later.
+* **Clauses:** These are the major building block of SQL, and can be stitched together to combine a queries general behavior. They usually start with a keyword, like 
+   * `SELECT` – defines which columns to return 
+   * `FROM` – defines the source table 
+   * `WHERE` – filters rows 
+   * `GROUP BY` – groups rows etc.  
+
+By combining these clauses, you create an SQL query
+
+There are a ton of things you can do in SQL, like create tables:
+
+    CREATE TABLE People(first_name, last_name, age, favorite_color)
+
+Insert data into tables:
+
+    INSERT INTO People
+    VALUES
+        ('Tom', 'Sawyer', 19, 'White'),
+        ('Mel', 'Gibson', 69, 'Green'),
+        ('Daniel', 'Warfiled', 27, 'Yellow')
+
+Select certain data from tables:
+
+    SELECT first_name, favorite_color FROM People
+
+Search based on some filter
+
+    SELECT * FROM People WHERE id = 3
+
+And Delete Data
+
+    DELETE FROM People WHERE age < 30 
+
+What was previously mentioned makes up the cornerstone of pretty much all of SQL. Everything else builds on it, and there is a lot.
+
+**Primary and Foreign Keys**  
+A *primary key* is a unique identifier for each record in a table. A *foreign key* references a primary key in another table, allowing you to relate data across tables. This is the backbone of relational database design.
+
+**Super Keys and Composite Keys**  
+A *super key* is any combination of columns that can uniquely identify a row. When a unique combination requires multiple columns, it’s often called a *composite key* — useful in complex schemas like logs or transactions.
+
+**Normalization and Database Design**  
+Normalization is the process of splitting data into multiple related tables to reduce redundancy. First Normal Form (1NF) ensures atomic rows, Second Normal Form (2NF) separates logically distinct data, and Third Normal Form (3NF) eliminates derived data stored in the same table.
+
+**Creating Relational Schemas in SQLite**  
+You can explicitly define tables with `FOREIGN KEY` constraints using `CREATE TABLE`. These relationships enforce referential integrity and enable behaviors like cascading deletes. SQLite enforces `NOT NULL` and `UNIQUE` constraints strictly, making your schema more robust.
+
+**Entity Relationship Diagrams (ERDs)**  
+ERDs visually represent tables and their relationships. Dotted lines and cardinality markers like `{0,1}` or `0..N` indicate how many records in one table relate to another, which helps document and debug schema logic.
+
+**JOINs**  
+JOIN operations combine rows from multiple tables using foreign keys. `INNER JOIN` includes only matched rows, `LEFT JOIN` includes all from the left table, and `FULL OUTER JOIN` (emulated in SQLite) combines both. Proper JOINs are critical for data integration.
+
+**Filtering and LEFT/RIGHT JOIN Differences**  
+JOIN order affects which rows are preserved when there’s no match. For example, using `LEFT JOIN` ensures all left-hand rows are kept — useful for identifying unmatched data. SQLite lacks `RIGHT JOIN`, but you can simulate it by flipping the table order in a `LEFT JOIN`.
+
+**Simulating FULL OUTER JOINs**  
+SQLite doesn’t support `FULL OUTER JOIN`, but you can emulate it with a `UNION` of two `LEFT JOIN` queries and a `WHERE` clause to catch nulls from both sides. This approach ensures no records are lost in either table.
+
+**The WHERE Clause and Filtration**  
+`WHERE` filters records based on conditions, supporting logical operators (`AND`, `OR`), numeric comparisons, and string operations like `LIKE`, `IN`, and `REGEXP`. It's one of the most frequently used clauses in SQL.
+
+**DISTINCT Selections**  
+Use `SELECT DISTINCT` to retrieve unique values from a column. You can also select distinct combinations of columns (e.g., `SELECT DISTINCT name, grade`) to avoid duplicate rows in the result.
+
+**Grouping and Aggregation Functions**  
+With `GROUP BY`, you can compute metrics like `AVG`, `SUM`, or `COUNT` for each group. `HAVING` lets you filter grouped results, like showing only departments with an average salary above a threshold.
+
+**Ordering and Limiting Results**  
+`ORDER BY` sorts results by one or more columns in ascending (`ASC`) or descending (`DESC`) order. `LIMIT` restricts the number of rows returned, and `OFFSET` lets you skip rows — useful for pagination or ranked listings.
+
+**Updating and Deleting Data**  
+`UPDATE` modifies existing rows using `SET`, while `DELETE` removes rows based on `WHERE` filters. These operations can be combined with other clauses to selectively change or clean up data.
+
+**Handling NULLs**  
+`NULL` represents missing or undefined values. You can detect them using `IS NULL` or replace them with defaults using `COALESCE`. Aggregates like `AVG(column)` ignore NULLs by default, while `COUNT(*)` includes all rows.
+
+**Subqueries**  
+Subqueries are nested `SELECT` statements used inside `WHERE`, `FROM`, or `SELECT`. They’re useful for filtering by aggregates, comparisons, or generating intermediate results for more complex logic.
+
+**Correlated Subqueries**  
+These are subqueries that reference columns from the outer query. Each row in the outer query is matched against a custom condition in the subquery — powerful but often inefficient unless optimized.
+
+**Common Table Expressions (CTEs)**  
+CTEs let you define temporary named result sets with `WITH`. They make complex queries readable by breaking them into logical steps and can be used multiple times within the same query.
+
+**Recursive CTEs**  
+Recursive CTEs solve hierarchical problems like org charts or category trees. A base case defines the start, and a recursive step extends the output until no new rows are added. Useful for generating sequences or computing reporting chains.
+
+**Window Functions**  
+Window functions perform calculations across a set of table rows related to the current row. Examples include `RANK()`, `ROW_NUMBER()`, `LAG()`, `LEAD()`, `SUM() OVER ()`, and moving averages with sliding windows.
+
+These all can be combined together to do a lot of different stuff.
+
+In my opinion, this is too much to learn efficiently learn outright. It requires practice and the slow aggregation of concepts over many projects. If you're new to SQL, I recommend studying the basics and learning through doing. However, if you're on the job hunt and you need to cram, you might find this breakdown useful: [https://iaee.substack.com/p/structured-query-language-intuitively](https://iaee.substack.com/p/structured-query-language-intuitively)",Daniel-Warfield,1744474855.0,220,14,0.88
+28,1jxtzs1,Which topics or questions frequently asked for a data science role in traditional banks? Or for fraud detection/risk modeling topics?,"Hi,
+
+I am proficient with statistics(causal inference , parametric non parametric tests) and ML models, but i don’t what models, statistical techniques are used in fraud detection and risk modeling, especially in finance industry. So, could anyone suggest FAQs? Or topics i should focus more on? Or any not common topic you ask to candidates that are crucial to know? Role requires 3+ years of experience.
+
+Also, would like to know what techniques you work on in your day to work in fraud detection. It would help me great how it works in industry and prepare for a potential interview. Thanks! 
+
+
+Edit-
+Would you consider it to be similar like anomaly detection in time series? If so what methods you use in your company, i know concept of a few methods like z-score, arima, sarima, med and other but would like to know in practice what you use as well
+
+Edit 2- i am interested more on the topics that i could learn, like i know sql and python will be there",Starktony11,1744499468.0,21,16,0.82
+29,1jxdlfg,Marketing Mix Models - are they really a good idea?,"hi,
+
+I've seen a prior thread on this, but my question is more technical...
+
+A prior company got sold a Return on Marketing Invest project by one of the big 4 consultancies.  The basis of it was build a bunch of MMMs, pump the budget in, and it automatically tells what you where to spend the budget to get the most bang for you buck.  Sounds wonderful.
+
+I was the DS shadowing the consultancy to learn the models, so we could do a refresh.  The company had an annual marketing budget of 250m€ and its revenue was between 1.5 and 2bn €.
+
+Once I got into doing the refresh, I really felt the process was never going to succeed.  Marketing thought ""there's 3 years of data, we must have a good model"", but in reality 3\*52 weeks is a tiny amount of data, when you try to fit in TV, Radio, Press, OOH, Whitemail, Email, Search, Social, and then include prices from you and comp, and seasonal variables.
+
+You need to adstock each media to take affect for lags - and finding the level of adstock requires experimentation. The 156 weeks need to have a test and possibly a validation set given the experiments.
+
+The business is then interested in things like what happens when we do TV and OOH together, which means creating combined variables.  More variables on very little data.
+
+I am a practical Data Scientist.  I don't get hung up on the technical details and am focused on generating value, but this whole process seemed a crazy and expensive waste of time.  
+
+The positive that came out of it was that we started doing AB testing in certain areas where the initial models suggested there was very low return, and those areas had previously been very resistant to any kind of testing.  
+
+This feels a bit like a rant, but I'm genuinely interested if people think it can work.  It feels like its a over promising in the worst way.",SonicBoom_81,1744450729.0,112,49,0.94
+30,1jygakg,Features you would love,If someone were to create a new cloud based data system. What features would you love it to have? What features do other services lack?,MyKo101,1744573736.0,0,5,0.31
+31,1jxk5za,Building a Reliable Text-to-SQL Pipeline: A Step-by-Step Guide pt.1,,phicreative1997,1744472558.0,15,30,0.63
+32,1jxe7rg,[Help] Modeling Tariff Impacts on Trade Flow,"
+I'm working on a trade flow forecasting system that uses the RAS algorithm to disaggregate high-level forecasts to detailed commodity classifications. The system works well with historical data, but now I need to incorporate the impact of new tariffs without having historical tariff data to work with.
+
+Current approach:
+- Use historical trade patterns as a base matrix
+- Apply RAS to distribute aggregate forecasts while preserving patterns
+
+Need help with:
+- Methods to estimate tariff impacts on trade volumes by commodity
+- Incorporating price elasticity of demand
+- Modeling substitution effects (trade diversion)
+- Integrating these elements with our RAS framework
+
+Any suggestions for modeling approaches that could work with limited historical tariff data? Particularly interested in econometric methods or data science techniques that maintain consistency across aggregation levels.
+
+Thanks in advance!",levenshteinn,1744453493.0,4,5,0.64
+33,1jwbevk,What technical skills should young data scientists be learning?,"Data science is obviously a broad and ill-defined term, but most DS jobs today fall into one of the following flavors:
+
+- Data analysis (a/b testing, causal inference, experimental design)
+
+- Traditional ML (supervised learning, forecasting, clustering) 
+
+- Data engineering (ETL, cloud development, model monitoring, data modeling)
+
+- Applied Science (Deep learning, optimization, Bayesian methods, recommender systems, typically more advanced and niche, requiring doctoral education)
+
+The notion of a “full stack” data scientist has declined in popularity, and it seems that many entrants into the field need to decide one of the aforementioned areas to specialize in to build a career. 
+
+For instance, a seasoned product DS will be the best candidate for senior product DS roles, but not so much for senior data engineering roles, and vice versa. 
+
+Since I find learning and specializing in everything to be infeasible, I am interested in figuring out which of these “paths” will equip one with the most employable skillset, especially given how fast “AI” is changing the landscape. 
+
+For instance, when I talk to my product DS friends, they advise to learn how to develop software and use cloud platforms since it is essential in the age of big data, even though they rarely do this on the job themselves. 
+
+My data engineer friends on the other hand say that data engineering tools are easy to learn, change too often, and are becoming increasingly abstracted, making developing a strong product/business sense a wiser choice. 
+
+Is either group right? 
+
+Am I overthinking and would be better off just following whichever path interests me most? 
+
+EDIT: I think the essence of my question was to assume that candidates have solid business knowledge. Given this, which skillset is more likely to survive in today and tomorrow’s job market given AI advancements and market conditions. Saying all or multiple pathways will remain important is also an acceptable answer. ",etherealcabbage72,1744326138.0,387,73,0.97
+34,1jwlf3f,Causal Inference Casework,Hii All. My team currently has a demand forecasting model in place. Though it answers a lot of questions but isnt very good. I did a one day research on casual inference and from a brief understanding I feel it can be something worth looking at. I am a junior data scientist. How can I go forward and put this case forward to the principal data scientist from whom I need a sign off essentially. Should I create a POC on my own without telling anyone and present it with the findings or are there better ways ?? Thanks in advance :),NervousVictory1792,1744362266.0,21,28,0.79
+35,1jx5k15,Any good classification datasets…,…that are comprised primarily of categorical features? Looking to test some segmentation code. Real world data preferred.,SingerEast1469,1744419806.0,0,23,0.31
+36,1jwduc6,Predicting with anonymous features: How and why?,,chiqui-bee,1744333496.0,4,5,0.67
+37,1jw7i9l,Seeking advice fine-tuning,"Hello, i am still new to fine tuning trying to learn by doing projects.
+
+Currently im trying to fine tune a model with unsloth, i found a dataset in hugging face and have done the first project, the results were fine (based on training and evaluation loss).
+
+So in my second project i decided to prepare my own data, i have pdf files with plain text and im trying to transform them into a question answer format as i read somewhere that this format is necessary to fine tune models. I find this a bit odd as acquiring such format could be nearly impossible.
+
+So i came up with two approaches, i extracted the text from the files into small chnuks. First one is to use some nlp technics and pre trained model to generate questions or queries based on those chnuks results were terrible maybe im doing something wrong but idk. Second one was to only use one feature which is the chunks only 215 row . Dataset shape is (215, 1) I trained it on 2000steps and notice an 
+overfitting by measuring the loss of both training and testing test loss was 3 point something and traing loss was 0.00…somthing.
+
+My questions are:
+- How do you prepare your data if you have pdf files with plain text my case (datset about law)
+- what are other evaluation metrics you do
+- how do you know if your model ready for real world deployment ",Gold-Artichoke-9288,1744315889.0,6,9,0.76
+38,1jvrgr5,Fixing the Agent Handoff Problem in LlamaIndex's AgentWorkflow System,"[Fixing the Agent Handoff Problem in LlamaIndex's AgentWorkflow System](https://preview.redd.it/shjbjpxccyte1.png?width=1280&format=png&auto=webp&s=3338b6859f2cc9e4852d1ec0a3ffd59e3511c3e3)
+
+# The position bias in LLMs is the root cause of the problem
+
+I've been working with LlamaIndex's AgentWorkflow framework - a promising multi-agent orchestration system that lets different specialized AI agents hand off tasks to each other. But there's been one frustrating issue: when Agent A hands off to Agent B, Agent B often fails to continue processing the user's original request, forcing users to repeat themselves.
+
+This breaks the natural flow of conversation and creates a poor user experience. Imagine asking for research help, having an agent gather sources and notes, then when it hands off to the writing agent - silence. You have to ask your question again!
+
+[The receiving agent doesn't immediately respond to the user's latest request - the user has to repeat their question.](https://preview.redd.it/ucl76xnmcyte1.png?width=883&format=png&auto=webp&s=4fc975569f3bda5238ebb5ed1e5b08ff7cc86049)
+
+**Why This Happens: The Position Bias Problem**
+
+After investigating, I discovered this stems from how large language models (LLMs) handle long conversations. They suffer from ""position bias"" - where information at the beginning of a chat gets ""forgotten"" as new messages pile up.
+
+[Different positions in the chat context have different attention weights. Arxiv 2407.01100](https://preview.redd.it/ugtqdq2tdyte1.png?width=519&format=png&auto=webp&s=cf9978aef461521633c8e20786ed48d8a106a2de)
+
+In AgentWorkflow:
+
+1. User requests go into a memory queue first
+2. Each tool call adds 2+ messages (call + result)
+3. The original request gets pushed deeper into history
+4. By handoff time, it's either buried or evicted due to token limits
+
+[FunctionAgent puts both tool\_call and tool\_call\_result info into ChatMemory, which pushes user requests to the back of the queue.](https://preview.redd.it/ypd4caewdyte1.png?width=786&format=png&auto=webp&s=240629c41c2f581dd7c3c8917912827358db5525)
+
+Research shows that in an 8k token context window, information in the first 10% of positions can lose over 60% of its influence weight. The LLM essentially ""forgets"" the original request amid all the tool call chatter.
+
+**Failed Attempts**
+
+First, I tried the developer-suggested approach - modifying the handoff prompt to include the original request. This helped the receiving agent see the request, but it still lacked context about previous steps.
+
+[The original handoff implementation didn't include user request information.](https://preview.redd.it/lbnm2laxcyte1.png?width=681&format=png&auto=webp&s=261eb162385f7f471c92a7812c188404ed682548)
+
+[The output of the updated handoff now includes both chat history review and user request information.](https://preview.redd.it/u5eukjkycyte1.png?width=681&format=png&auto=webp&s=2956e9aa2f88ce7aa65da0f09fbdb93a7930aa27)
+
+Next, I tried reinserting the original request after handoff. This worked better - the agent responded - but it didn't understand the full history, producing incomplete results.
+
+[After each handoff, I copy the original user request to the queue's end. ](https://preview.redd.it/j5irsta0dyte1.png?width=807&format=png&auto=webp&s=f4cbaf58ca093a06938e0ccf9cd7ea9164def92d)
+
+**The Solution: Strategic Memory Management**
+
+The breakthrough came when I realized we needed to work with the LLM's natural attention patterns rather than against them. My solution:
+
+1. **Clean Chat History**: Only keep actual user messages and agent responses in the conversation flow
+2. **Tool Results to System Prompt**: Move all tool call results into the system prompt where they get 3-5x more attention weight
+3. **State Management**: Use the framework's state system to preserve critical context between agents
+
+[Attach the tool call result as state info in the system\_prompt.](https://preview.redd.it/yj1wmx06eyte1.png?width=634&format=png&auto=webp&s=96272c1d5ead65d83881780ae6ee4d92d7c0e7aa)
+
+This approach respects how LLMs actually process information while maintaining all necessary context.
+
+**The Results**
+
+After implementing this:
+
+* Receiving agents immediately continue the conversation
+* They have full awareness of previous steps
+* The workflow completes naturally without repetition
+* Output quality improves significantly
+
+For example, in a research workflow:
+
+1. Search agent finds sources and takes notes
+2. Writing agent receives handoff
+3. It immediately produces a complete report using all gathered information
+
+[ResearchAgent not only continues processing the user request but fully perceives the search notes, ultimately producing a perfect research report.](https://preview.redd.it/1hw8vza8dyte1.png?width=671&format=png&auto=webp&s=b721645671c5639c2e0b7990395ed077a992900f)
+
+**Why This Matters**
+
+Understanding position bias isn't just about fixing this specific issue - it's crucial for anyone building LLM applications. These principles apply to:
+
+* All multi-agent systems
+* Complex workflows
+* Any application with extended conversations
+
+The key lesson: LLMs don't treat all context equally. Design your memory systems accordingly.
+
+[In different LLMs, the positions where the model focuses on important info don't always match the actual important info spots. ](https://preview.redd.it/ex69ri8cdyte1.png?width=575&format=png&auto=webp&s=d680659f6e9889775c4d24b650e06ac9791945df)
+
+**Want More Details?**
+
+If you're interested in:
+
+* The exact code implementation
+* Deeper technical explanations
+* Additional experiments and findings
+
+Check out the full article on
+
+[https://www.dataleadsfuture.com/fixing-the-agent-handoff-problem-in-llamaindexs-agentworkflow-system/](https://www.dataleadsfuture.com/fixing-the-agent-handoff-problem-in-llamaindexs-agentworkflow-system/)
+
+I've included all source code and a more thorough discussion of position bias research.
+
+Have you encountered similar issues with agent handoffs? What solutions have you tried? Let's discuss in the comments!",qtalen,1744267056.0,21,5,0.84
+39,1jvlqx7,"Is Agentic AI a Generative AI + SWE, or am I missing a thing?","Basically I just started doing hands-on around the Agentic AI. However, it all felt like creating multiple functions/modules powered with GenAI, and then chaining them together using SWE skills such as through endpoints. 
+
+Some explanation said that Agentic AI is proactive and GenAI is reactive. But then, I also thought that if you have a function that uses GenAI to produce output, then run another code to send the result somewhere else, wouldn't that achive the same thing as Agentic AI?
+
+Or am I missing something?
+
+Thank you!
+
+Note: this is an oversimplification of a scenario.",Upstairs-Deer8805,1744246800.0,40,9,0.87
+40,1jvcz3t,GenAI and LLM preparation for technical rounds,"From technical rounds perspective, can anyone suggest resources or topics to study for GenAI and LLMs? I have had some experience with them, but then in interviews they go into the depth (eg. Attention mechanism, Q-learning, chunking strategies, case studies etc.). Honestly, most of what I can see in YouTube is just in surface level. If it's just about calling an API and feeding your documents, then it's too simple, but that's not how interviews happen. ",alpha_centauri9889,1744223233.0,96,20,0.95
+41,1jvav77,"just took a new job in supply chain optimization, what do i need to learn to be effective?",I am new to supply chain and need to know what resources/concepts I should be familiar with.,fridchikn24,1744218154.0,32,23,0.88
+42,1juo7ue,Absolutely BOMBED Interview,"I landed a position 3 weeks ago, and so far wasn’t what I expected in terms of skills. Basically, look at graphs all day and reboot IT issues. Not ideal, but I guess it’s an ok start. 
+
+Right when I started, I got another interview from a company paying similar, but more aligned to my skill set in a different industry. I decided to do it for practice based on advice from l people on here.
+
+First interview went well, then got a technical interview scheduled for today and ABSOLUTELY BOMBED it. It was BAD BADD. It made me realize how confused I was with some of the basics when it comes to the field and that I was just jumping to more advanced skills, similar to what a lot of people on this group do. It was literally so embarrassing and I know I won’t be moving to the next steps. 
+
+Basically the advice I got from the senior data scientist was to focus on the basics and don’t rush ahead to making complex models and deployments. Know the basics of SQL, Statistics (linear regression, logistic, xgboost) and how you’re getting your coefficients and what they mean, and Python. 
+
+Know the basics!!",MightGuy8Gates,1744145436.0,521,68,0.98
+43,1jvwexo,Do professionals in the industry still refer to online sources or old code for solutions?,"Hey everyone,  
+I’m currently studying and working on improving my skills in data science, and I’ve been wondering something:
+
+Do professionals—those already working in the industry—still take reference from online sources like Stack Overflow, old GitHub repos, documentation, or even their previous Jupyter notebooks when they’re coding?
+
+Sometimes I feel like I’m “cheating” when I google things I forgot or reuse snippets from old work. But is this actually a normal part of professional workflows?
+
+For example, take this small code block below:
+
+  
+`# 1. Instantiate the random forest classifier`
+
+`rf = RandomForestClassifier(random_state=42)`
+
+
+
+`# 2. Create a dictionary of hyperparameters to tune`
+
+`cv_params = {'max_depth': [None],`
+
+`'max_features': [1.0],`
+
+`'max_samples': [1.0],`
+
+`'min_samples_leaf': [2],`
+
+`'min_samples_split': [2],`
+
+`'n_estimators': [300],`
+
+`}`
+
+
+
+`# 3. Define a list of scoring metrics to capture`
+
+`scoring = ['accuracy', 'precision', 'recall', 'f1']`
+
+
+
+`# 4. Instantiate the GridSearchCV object`
+
+`rf_cv = GridSearchCV(rf, cv_params, scoring=scoring, cv=4, refit='recall')`
+
+  
+Would professionals be able to code this entire thing out from memory, or is referencing docs and previous code still common?",LimpInvite2475,1744287252.0,0,18,0.32
+44,1juzclh,Familiar matchmaking in gaming; to match players with players they like and have played with before,"I've seen the classic MMRs before based on skill level in many different games. 
+
+But the truth is gaming is about fun, and playing with people you already like or who are similar to people you like is a massive fun multiplier
+
+So the challenge is how would you design a method to achieve that? Multiple algorithms, or something simpler?  
+  
+My initial idea is raw, and ripe for improvement
+
+During or after a game session is over you get to thumbs up or thumbs down players you enjoyed playing with. 
+
+Later on if you are in a matchmaking queue the list of players you've thumbed up is consulted and the party that has players with the greatest total thumbs up points at the top of that list gets matched to your party if there is free space, and if you are at the top of the available people on their end too.
+
+The end goal here is to make public matchmaking more fun, and feel more familiar as you get to play repeatedly with players you've enjoyed playing with before.
+
+The main issue with this type of matchmaking is that over time it would be difficult for newer players to get enough thumbs up to get higher on the list. Harder to get to play with the people who already have a large pool of people they like to play with. I don't know how to solve that issue at the moment.",wang-bang,1744180578.0,23,7,0.95
+45,1jv4xqf,"Hi, I’m a junior in high school and I am interested in Data Science. What’s steps should I take to get there (from now to the end of high school)?","Picture will be referenced later
+
+For some background all I’ve done related to data science is a harvard edx python course which I took twice (first time I got all the way to the final project then quit, the second time I wasn’t able to finish all the lectures). Though I know I have the skills, I really need a refresher on the language.
+
+Some questions I have are:
+1. Is it good to take certifications in this field. For example, in the computer networking role, the CCNA is an extremely important certification and can easily get you hired for an entry level position. Is there anything similar in data science?
+
+2. Any way to find data science internships? Idk why but it’s kinda hard to find data science internships. I did manage to find a few, but idk which ones the best use of my time. Any help here?
+
+3. In the picture I put a roadmap that i found online. The words are kinda small; to clarify, first they say to learn python, then R, then GIT, then data structures and algorithms, after that they recommend learning SQL, then math/statistics, then data processing and visualization, machine learning, deep learning, and finally big data. Is this a good path to follow? If so how should I approach going down this route? Any resources I can use to start learning?
+
+Any other tips would be greatly appreciated, thank you all for reading I really appreciate it.",Particular_Reality12,1744202852.0,0,31,0.46
+46,1jtyyc0,Do remote data science jobs still exsist?,"Evry time I search remote data science etc jobs i exclusively seem to get hybrid if anything results back and most of them are 3+ days in office a week.
+
+Do remote data science jobs even still exsist, and if so, is there some in the know place to look that isn't a paid for site or LinkedIn which gives me nothing helpful?",vintagefiretruk,1744066951.0,107,65,0.82
+47,1jtoul7,Data Science Projects for 1 Year of Experience,"Hello senior/lead/manager data scientist,  
+What kind of data science projects do you typically expect from a candidate with 1 year of experience?",guna1o0,1744041752.0,136,36,0.95
+48,1ju139m,Career Crossroads: DS Manager (Retail) w/ Finance Background -> Head of Finance Analytics Offer - Seeking Guidance & Perspectives,"
+Hey r/datascience,
+
+Hoping to tap into the collective wisdom here regarding a potential career move. I'd appreciate any insights or perspectives you might have.
+
+My Background:
+
+Current Role: Data Science Manager at a Retail company.
+
+Experience: ~8 years in Data Science (started as IC, now Manager).
+
+Prior Experience: ~5 years in Finance/M&A before transitioning into data science.
+The Opportunity:
+
+I have an opportunity for a Head of Finance Analytics role, situated within (or closely supporting) the Financial Planning & Analysis (FP&A) function.
+
+The Appeal: 
+This role feels like a potentially great way to merge my two distinct career paths (Finance + Data Science). It leverages my domain knowledge from both worlds. The ""Head of"" title also suggests significant leadership scope.
+
+The Nature of the Work:
+The primary focus will be data analysis using SQL and BI tools to support financial planning and decision-making.
+Revenue forecasting is also a key component.
+However, it's not a traditional data science role. Expect limited exposure to diverse ML projects or building complex predictive models beyond forecasting.
+The tech stack is not particularly advanced (likely more SQL/BI-centric than Python/R ML libraries).
+
+
+My Concerns / Questions for the Community:
+
+Career Trajectory - Title vs. Substance? 
+Moving from a ""Data Science Manager"" to a ""Head of Finance Analytics"" seems like a step up title-wise. However, is shifting focus primarily to SQL/BI-driven analysis and forecasting, away from broader ML/DS projects and advanced techniques, a potential functional downstep or specialization that might limit future pure DS leadership roles?
+
+Technical Depth vs. Seniority: 
+As you move towards Head of/Director/VP levels, how critical is maintaining cutting-edge data science technical depth versus deep domain expertise (finance), strategic impact through analysis, and leadership? Does the type of technical work (e.g., complex SQL/BI vs. complex ML) become less defining at these senior levels?
+
+Compensation Outlook: 
+What does the compensation landscape typically look like for senior analytics leadership roles like ""Head of Finance Analytics,"" especially within FP&A or finance departments, compared to pure Data Science management/director tracks in tech or other industries? Trying to gauge the long-term financial implications.
+
+I'm essentially weighing the unique opportunity to blend my background and gain a significant leadership title (""Head of"") against the trade-offs in the type of technical work and the potential divergence from a purely data science leadership path.
+
+Has anyone made a similar move or have insights into navigating careers at the intersection of Data Science and Finance/FP&A, particularly in roles heavy on analysis and forecasting? Any perspectives on whether this is a strategic pivot leveraging my unique background or a potential limitation for future high-level DS roles would be incredibly helpful.
+
+Thanks in advance for your thoughts!
+
+TL;DR: DS Manager (8 YOE DS, 5 YOE Finance) considering ""Head of Finance Analytics"" role. Opportunity to blend background + senior title. Work is mainly SQL/BI analysis + forecasting, less diverse/advanced DS. Worried about technical ""downstep"" vs. pure DS track & long-term compensation. Seeking advice.
+",mad_e_y_e,1744073148.0,26,15,0.86
+49,1juvgek,Azure Course for Beginners | Learn Azure & Data Bricks in 1 Hour,"# FREE Azure Course for Beginners | Learn Azure & Data Bricks in 1 Hour
+
+[https://www.youtube.com/watch?v=8XH2vTyzL7c](https://www.youtube.com/watch?v=8XH2vTyzL7c)",chrisgarzon19,1744166203.0,0,0,0.4
