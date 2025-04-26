@@ -1,3 +1,5 @@
+# MSBA305-Social-Media-Analytics
+
 This project is divided into two major parts focusing on Reddit and Twitter analytics, machine learning modeling, and manual knowledge graph construction using Neo4j.
 
 ## 📚 Project Overview
